@@ -1,0 +1,17 @@
+{
+    "name": "terada/fetch",
+    "autoload": {
+        "psr-4": {
+            "Terada\\Fetch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TeradaAki",
+            "email": "terada.aki@yahoo.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.13"
+    }
+}
